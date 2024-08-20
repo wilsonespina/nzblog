@@ -1,0 +1,24 @@
+{
+  "article":{
+     "relatedArticles":"Articles similaires",
+     "featured":"En vedette"
+  },
+  "landingPage":{
+     "latestArticles":"Derniers articles"
+  },
+  "common":{
+     "homepage":"Page d'accueil",
+     "regionalSettings":"Paramètres régionaux",
+     "language":"Langue",
+     "languageDrawer":"Basculer le tiroir de langue"
+  },
+  "footer":{
+     "aboutUs":"À propos de nous",
+     "description":"Notre société se spécialise dans le développement de technologies de pointe pour une variété d'industries. Nous utilisons des techniques et des algorithmes de pointe pour construire des systèmes intelligents qui peuvent aider les entreprises à automatiser les tâches, à améliorer l'efficacité et à stimuler l'innovation.",
+     "powerBy":"Propulsé par"
+  },
+  "notFound":{
+     "title":"Page non trouvée",
+     "description":"Cette page semble ne pas exister. <0>Cliquez ici</0> pour revenir à la page d'accueil."
+  }
+}
